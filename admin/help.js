@@ -40,14 +40,13 @@ ${menu(listmenu.tagrandom, "TAGRANDOM", prefix)}
 ${menu(listmenu.listaudio, "LISTAUDIO", prefix)}
 ${menu(listmenu.userbot, "USERBOT", prefix)}
 ${menu(listmenu.games, "GAMES", prefix)}
-${menu(listmenu.animes, "ANIME", prefix)}
-${menu(listmenu.cecan, "CECAN", prefix)}
-${menu(listmenu.news, "NEWS", prefix)}`
+${menu(listmenu.animes, "ANIME", prefix)}`
 // JANGAN UBAH/HAPUS THX TO🤥
 var cr = `╭━─━•[ *THX-TO* ]⊱
 ┃•  *ADHIRAJ SINGH*
 ┃•  *RIMURUBOTZ*
 ┃•  *LOLI KILLERS*
+┃•  *Aiman*
 ┃•  *LORD R1YNZ*
 ╰━─━─━─━─━─━─━─•`
 return help1
